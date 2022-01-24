@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#044"
+    android:background="@color/btn_bg_color"
     android:gravity="center"
     android:orientation="vertical"
     android:padding="30dp"
@@ -33,24 +33,24 @@
 
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
+                android:layout_margin="@dimen/btn_margin"
+                android:backgroundTint="@color/btn_bg_color"
                 android:text="@string/_1"
                 android:textSize="@dimen/btn_text_size" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
+                android:layout_margin="@dimen/btn_margin"
+                android:backgroundTint="@color/btn_bg_color"
                 android:text="@string/_2"
                 android:textSize="@dimen/btn_text_size" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
+                android:layout_margin="@dimen/btn_margin"
+                android:backgroundTint="@color/btn_bg_color"
                 android:text="@string/_3"
                 android:textSize="@dimen/btn_text_size" />
         </LinearLayout>
@@ -63,24 +63,24 @@
 
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
+                android:layout_margin="@dimen/btn_margin"
+                android:backgroundTint="@color/btn_bg_color"
                 android:text="@string/_4"
                 android:textSize="@dimen/btn_text_size" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
+                android:layout_margin="@dimen/btn_margin"
+                android:backgroundTint="@color/btn_bg_color"
                 android:text="@string/_5"
                 android:textSize="@dimen/btn_text_size" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
+                android:layout_margin="@dimen/btn_margin"
+                android:backgroundTint="@color/btn_bg_color"
                 android:text="@string/_6"
                 android:textSize="@dimen/btn_text_size" />
 
@@ -94,24 +94,24 @@
 
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
+                android:layout_margin="@dimen/btn_margin"
+                android:backgroundTint="@color/btn_bg_color"
                 android:text="@string/_7"
                 android:textSize="@dimen/btn_text_size" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
+                android:layout_margin="@dimen/btn_margin"
+                android:backgroundTint="@color/btn_bg_color"
                 android:text="@string/_8"
                 android:textSize="@dimen/btn_text_size" />
 
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
+                android:layout_margin="@dimen/btn_margin"
+                android:backgroundTint="@color/btn_bg_color"
                 android:text="@string/_9"
                 android:textSize="@dimen/btn_text_size" />
         </LinearLayout>

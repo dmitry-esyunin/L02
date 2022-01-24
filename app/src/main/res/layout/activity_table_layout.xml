@@ -13,93 +13,90 @@
     <TableRow
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:gravity="center"
-        >
+        android:gravity="center">
 
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/btn_margin"
+            android:backgroundTint="@color/btn_bg_color"
+            android:text="@string/_1"
+            android:textSize="@dimen/btn_text_size" />
 
-            <Button
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/btn_margin"
+            android:backgroundTint="@color/btn_bg_color"
+            android:text="@string/_2"
+            android:textSize="@dimen/btn_text_size" />
 
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
-                android:text="@string/_1"
-                android:textSize="@dimen/btn_text_size" />
-
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
-                android:text="@string/_2"
-                android:textSize="@dimen/btn_text_size" />
-
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
-                android:text="@string/_3"
-                android:textSize="@dimen/btn_text_size" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/btn_margin"
+            android:backgroundTint="@color/btn_bg_color"
+            android:text="@string/_3"
+            android:textSize="@dimen/btn_text_size" />
     </TableRow>
+
     <TableRow
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:gravity="center"
-        >
-            <Button
+        android:gravity="center">
 
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
-                android:text="@string/_4"
-                android:textSize="@dimen/btn_text_size" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/btn_margin"
+            android:backgroundTint="@color/btn_bg_color"
+            android:text="@string/_4"
+            android:textSize="@dimen/btn_text_size" />
 
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
-                android:text="@string/_5"
-                android:textSize="@dimen/btn_text_size" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/btn_margin"
+            android:backgroundTint="@color/btn_bg_color"
+            android:text="@string/_5"
+            android:textSize="@dimen/btn_text_size" />
 
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
-                android:text="@string/_6"
-                android:textSize="@dimen/btn_text_size" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/btn_margin"
+            android:backgroundTint="@color/btn_bg_color"
+            android:text="@string/_6"
+            android:textSize="@dimen/btn_text_size" />
     </TableRow>
+
     <TableRow
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:gravity="center"
-        >
-            <Button
+        android:gravity="center">
 
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
-                android:text="@string/_7"
-                android:textSize="@dimen/btn_text_size" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/btn_margin"
+            android:backgroundTint="@color/btn_bg_color"
+            android:text="@string/_7"
+            android:textSize="@dimen/btn_text_size" />
 
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
-                android:text="@string/_8"
-                android:textSize="@dimen/btn_text_size" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/btn_margin"
+            android:backgroundTint="@color/btn_bg_color"
+            android:text="@string/_8"
+            android:textSize="@dimen/btn_text_size" />
 
-            <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="5dp"
-                android:backgroundTint="#044"
-                android:text="@string/_9"
-                android:textSize="@dimen/btn_text_size" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/btn_margin"
+            android:backgroundTint="@color/btn_bg_color"
+            android:text="@string/_9"
+            android:textSize="@dimen/btn_text_size" />
     </TableRow>
 </TableLayout>
